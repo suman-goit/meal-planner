@@ -1,0 +1,5 @@
+label,accuracy,precision,recall,f1
+Energy (Calorie) Adequacy,0.959,1.0,0.7574,0.862
+Protein Adequacy,0.998,0.9974,1.0,0.9987
+Overall Nutritional Adequacy,0.976,1.0,0.8195,0.9008
+Medical Suitability Decision Tree,1.0,1.0,1.0,1.0
