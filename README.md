@@ -1,8 +1,10 @@
-## home page 
+## Home_page 
 <img width="1625" height="819" alt="Image" src="https://github.com/user-attachments/assets/942b4e9e-ef8b-4fe1-91d3-1b2686209075" />
-## profile
+
+## Profile
 <img width="1625" height="819" alt="Image" src="https://github.com/user-attachments/assets/729076e9-4396-444a-b08d-a771c7201498" />
-## meal paln
+
+## Meal_paln
 <img width="1625" height="819" alt="Image" src="https://github.com/user-attachments/assets/2df7ce2b-0410-46e1-9a9e-84e891473872" />
 
 
