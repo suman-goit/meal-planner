@@ -1,3 +1,8 @@
+## home page 
+
+## profile
+
+## meal paln
 # Nepali Diet Planner — Full Stack
 
 ```
